@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_url">https://data.nasa.gov/resource/</string>
+	<string name="app_json">y77d-th95.json</string>
+	<string name="app_token">xV5Ziy0wZh2r2245hc4vs6GOI</string>
+
+	<string name="last_update">update</string>
+</resources>

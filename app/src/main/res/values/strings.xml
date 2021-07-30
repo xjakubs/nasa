@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">NASA</string>
+	<string name="action_about">About</string>
+	<string name="title_activity_maps">Map</string>
+
+	<string name="connection_problem">Problem with connection.</string>
+
+	<string name="data_name">Name: </string>
+	<string name="data_id">Id: </string>
+	<string name="data_reclass">Reclass: </string>
+	<string name="data_mass">Mass: </string>
+</resources>
